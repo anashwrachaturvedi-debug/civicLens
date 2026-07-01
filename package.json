@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "engines": {
-  "node": ">=20.19.0"
-},
+    "node": ">=20.19.0"
+  },
   "description": "CivicLens AI – AI-powered Urban Infrastructure Monitoring Platform",
   "scripts": {
     "dev": "vite",
